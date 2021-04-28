@@ -16,9 +16,9 @@ Poeple can contribute to the story, not in large chunks but bit by bit. Also, th
 ## Contribution Guidelines
 1. Slangs, curse words, and obscene language MUST be avoided
 2. No part of the story must refer to specific contries or cultures in any way
-   ex. NO: The FBI showed up.
+  (NO: The FBI showed up.
        YES: The police showed up.
-       FBI refers to America, but police is a general term.
+       FBI refers to America, but police is a general term)
 3. Grammar and spelling must be consistent. 
 4. A single contribution cannot completely change the story. It's the little edits that over time build up to metamorphize the story.
 5. Chapters will be denoted by numbers, not names, and will be written to the right:
